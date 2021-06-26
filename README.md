@@ -9,16 +9,12 @@
    console.log("Welcome to my GitHub profile!");
 ```
 
-<br>
 
 ---
 
-<br>
 
 ### More About Me
  - Bakir Gracić | 17 | 4+ of exp | Sarajevo, Bosnia and Herzegovina | High School student (CS, Math) | "Arranging 1's and 0's in exact right order"
-
-<br>
 
 ### Status
 - 🔭 I’m currently working on a client website 
@@ -27,8 +23,6 @@
 - 📫 How to reach me: [website](https://bakirgracic.github.io/), [email](mailto:gracic_bakir@outlook.com) or [Discord](https://discordapp.com/users/616736736277430448/)
 - 😄 Pronouns: he, him 
 - ⚡ Fun fact: I'm a simple guy -_-
-
-<br>
 
 ### Skills and Tools
 <img style="padding: 10px 5px 0 5px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html' width="35">
@@ -42,9 +36,6 @@
 <img style="padding: 10px 5px 0 5px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='html' width="35">
 <img style="padding: 10px 5px 0 5px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobephotoshop.svg' alt='html' width="35">
 
-<br>
-<br>
-
 ### Connect with me
 [<img style="padding: 10px 5px 0 5px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='35'>](https://gracicbakir.github.io/)
 [<img style="padding: 10px 5px 0 5px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='35'>](https://www.linkedin.com/in/bakir-graci%C4%87-4891b6212//)
@@ -52,8 +43,6 @@
 [<img style="padding: 10px 5px 0 5px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoftoutlook.svg' alt='codepen' height='35'>](mailto:gracic_bakir@outlook.com)
 [<img style="padding: 10px 5px 0 5px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='outlook' height='35'>](https://codepen.io/https://codepen.io/bakirgracic)
 [<img style="padding: 10px 5px 0 5px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='35'>](www.github.com/BakirGracic)
-
-<br>
 
 ### My Stats
 
