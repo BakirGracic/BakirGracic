@@ -1,11 +1,64 @@
-### About Me ♟
-- Hello there! I'm Bakir and I have 17 years of age. I live in Sarajevo, Bosnia and Herzegovina and I'm interested in full-stack web development! I'm currently mastering front-end.
+## 👋 Hello there, my name is Bakir, welcome!
 
-### Technologies I learn 💻
-- HTML, CSS (SCSS), JavaScript, React.js, jQuery and WordPress (for now)
+<br>
 
-### My Work 💼
-- Visit my portfolio page [here](https://bakirgracic.github.io)!
+```
+   console.log("I am a front-end web developer");
+   console.log("and a designer, too!");
+   // :D
+   console.log("Welcome to my GitHub profile!");
+```
 
-### Goals ⚽
-- By the age 25 I plan to master full-stack web developent and find a job!
+<br>
+
+---
+
+<br>
+
+### More About Me
+ - Bakir Gracić | 17 | 4+ of exp | Sarajevo, Bosnia and Herzegovina | High School student (CS, Math) | "Arranging 1's and 0's in exact right order"
+
+<br>
+
+### Status
+- 🔭 I’m currently working on a client website 
+- 🌱 I’m currently mastering front-end
+- 🥅 Goals: master front-end and move to back-end
+- 📫 How to reach me: [website](https://bakirgracic.github.io/), [email](mailto:gracic_bakir@outlook.com) or [Discord](https://discordapp.com/users/616736736277430448/)
+- 😄 Pronouns: he, him 
+- ⚡ Fun fact: I'm a simple guy -_-
+
+<br>
+
+### Skills and Tools
+<img style="padding: 10px 5px 0 5px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html' width="35">
+<img style="padding: 10px 5px 0 5px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='html' width="35">
+<img style="padding: 10px 5px 0 5px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/sass.svg' alt='html' width="35">
+<img style="padding: 10px 5px 0 5px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='html' width="35">
+<img style="padding: 10px 5px 0 5px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg' alt='html' width="35">
+<img style="padding: 10px 5px 0 5px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/wordpress.svg' alt='html' width="35">
+<img style="padding: 10px 5px 0 5px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/sublimetext.svg' alt='html' width="35">
+<img style="padding: 10px 5px 0 5px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/visualstudiocode.svg' alt='html' width="35">
+<img style="padding: 10px 5px 0 5px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='html' width="35">
+<img style="padding: 10px 5px 0 5px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobephotoshop.svg' alt='html' width="35">
+
+<br>
+<br>
+
+### Connect with me
+[<img style="padding: 10px 5px 0 5px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='35'>](https://gracicbakir.github.io/)
+[<img style="padding: 10px 5px 0 5px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='35'>](https://www.linkedin.com/in/bakir-graci%C4%87-4891b6212//)
+[<img style="padding: 10px 5px 0 5px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='35'>](https://discordapp.com/users/616736736277430448/)
+[<img style="padding: 10px 5px 0 5px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoftoutlook.svg' alt='codepen' height='35'>](mailto:gracic_bakir@outlook.com)
+[<img style="padding: 10px 5px 0 5px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='outlook' height='35'>](https://codepen.io/https://codepen.io/bakirgracic)
+[<img style="padding: 10px 5px 0 5px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='35'>](www.github.com/BakirGracic)
+
+<br>
+
+### My Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BakirGracic&show_icons=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/BakirGracic)  
+
+![Profile views](https://gpvc.arturio.dev/BakirGracic)
