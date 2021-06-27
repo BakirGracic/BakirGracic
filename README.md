@@ -40,11 +40,11 @@
 
 ### Connect with me
 [<img style="display: inline-block; padding: 10px 5px 0 5px" src='img/globe.png' alt='website' height='35'>](https://gracicbakir.github.io/)
-[<img style="display: inline-block; padding: 10px 5px 0 5px" src='img/linkedin.png' alt='linkedin' height='35'>](https://www.linkedin.com/in/bakir-graci%C4%87-4891b6212//)
-[<img style="display: inline-block; padding: 10px 5px 0 5px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='35'>](https://discordapp.com/users/616736736277430448/)
-[<img style="display: inline-block; padding: 10px 5px 0 5px" src='img/mail.png' alt='codepen' height='35'>](mailto:gracic_bakir@outlook.com)
-[<img style="display: inline-block; padding: 10px 5px 0 5px" src='img/codepen.png' alt='outlook' height='35'>](https://codepen.io/https://codepen.io/bakirgracic)
 [<img style="display: inline-block; padding: 10px 5px 0 5px" src='img/github.png' alt='github' height='35'>](www.github.com/BakirGracic)
+[<img style="display: inline-block; padding: 10px 5px 0 5px" src='img/linkedin.png' alt='linkedin' height='35'>](https://www.linkedin.com/in/bakir-graci%C4%87-4891b6212//)
+[<img style="display: inline-block; padding: 10px 5px 0 5px" src='img/discord.png' alt='discord' height='35'>](https://discordapp.com/users/616736736277430448/)
+[<img style="display: inline-block; padding: 10px 5px 0 5px" src='img/codepen.png' alt='outlook' height='35'>](https://codepen.io/https://codepen.io/bakirgracic)
+[<img style="display: inline-block; padding: 10px 5px 0 5px" src='img/mail.png' alt='codepen' height='35'>](mailto:gracic_bakir@outlook.com)
 
 ### My Stats
 
