@@ -37,26 +37,27 @@
 <img style="padding: 10px 5px 0 5px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='html' width="35">
 <img style="padding: 10px 5px 0 5px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobephotoshop.svg' alt='html' width="35"> -->
 
-<img style="padding: 10px 5px 0 5px" src='img/html5.png' alt='html' width="35">
-<img style="padding: 10px 5px 0 5px" src='img/css3.png' alt='html' width="35">
-<img style="padding: 10px 5px 0 5px" src='img/sass.png' alt='html' width="35">
-<img style="padding: 10px 5px 0 5px" src='img/react.png' alt='html' width="35">
-<img style="padding: 10px 5px 0 5px" src='img/wp.png' alt='html' width="35">
-<img style="padding: 10px 5px 0 5px" src='img/js.jpg' alt='html' width="35">
-<img style="padding: 10px 5px 0 5px" src='img/vscode.png' alt='html' width="35">
-<img style="padding: 10px 5px 0 5px" src='img/sublime.png' alt='html' width="35">
-<img style="padding: 10px 5px 0 5px" src='img/ps-1.png' alt='html' width="35">
-<img style="padding: 10px 5px 0 5px" src='img/ps-2.png' alt='html' width="35">
-<img style="padding: 10px 5px 0 5px" src='img/github-1.png' alt='html' width="35">
-<img style="padding: 10px 5px 0 5px" src='img/github-2.png' alt='html' width="35">
+<div style="display: flex">
+   <img style="padding: 10px 5px 0 5px" src='img/html5.png' alt='html' width="35">
+   <img style="padding: 10px 5px 0 5px" src='img/css3.png' alt='html' width="35">
+   <img style="padding: 10px 5px 0 5px" src='img/sass.png' alt='html' width="35">
+   <img style="padding: 10px 5px 0 5px" src='img/react.png' alt='html' width="35">
+   <img style="padding: 10px 5px 0 5px" src='img/wp.png' alt='html' width="35">
+   <img style="padding: 10px 5px 0 5px" src='img/js.jpg' alt='html' width="35">
+   <img style="padding: 10px 5px 0 5px" src='img/vscode.png' alt='html' width="35">
+   <img style="padding: 10px 5px 0 5px" src='img/sublime.png' alt='html' width="35">
+   <img style="padding: 10px 5px 0 5px" src='img/ps.png' alt='html' width="35">
+</div>
 
 ### Connect with me
-[<img style="padding: 10px 5px 0 5px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='35'>](https://gracicbakir.github.io/)
-[<img style="padding: 10px 5px 0 5px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='35'>](https://www.linkedin.com/in/bakir-graci%C4%87-4891b6212//)
-[<img style="padding: 10px 5px 0 5px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='35'>](https://discordapp.com/users/616736736277430448/)
-[<img style="padding: 10px 5px 0 5px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoftoutlook.svg' alt='codepen' height='35'>](mailto:gracic_bakir@outlook.com)
-[<img style="padding: 10px 5px 0 5px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='outlook' height='35'>](https://codepen.io/https://codepen.io/bakirgracic)
-[<img style="padding: 10px 5px 0 5px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='35'>](www.github.com/BakirGracic)
+<div style="display: flex">
+   [<img style="padding: 10px 5px 0 5px" src='img/globe.png' alt='website' height='35'>](https://gracicbakir.github.io/)
+   [<img style="padding: 10px 5px 0 5px" src='img/linkedin.png' alt='linkedin' height='35'>](https://www.linkedin.com/in/bakir-graci%C4%87-4891b6212//)
+   [<img style="padding: 10px 5px 0 5px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='35'>](https://discordapp.com/users/616736736277430448/)
+   [<img style="padding: 10px 5px 0 5px" src='img/mail.png' alt='codepen' height='35'>](mailto:gracic_bakir@outlook.com)
+   [<img style="padding: 10px 5px 0 5px" src='img/codepen.png' alt='outlook' height='35'>](https://codepen.io/https://codepen.io/bakirgracic)
+   [<img style="padding: 10px 5px 0 5px" src='img/github.png' alt='github' height='35'>](www.github.com/BakirGracic)
+</div>
 
 ### My Stats
 
