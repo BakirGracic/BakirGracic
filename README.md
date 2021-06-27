@@ -14,7 +14,8 @@
 
 
 ### More About Me
- - Bakir Gracić | 17 | 4+ of exp | Sarajevo, Bosnia and Herzegovina | High School student (CS, Math) | "Arranging 1's and 0's in exact right order"
+ - Bakir Gracić | 17 | 4+ of exp | Sarajevo, Bosnia and Herzegovina | High School student (CS, Math)
+ - "Arranging 1's and 0's in exact right order"
 
 ### Status
 - 🔭 I’m currently working on a client website 
@@ -25,7 +26,7 @@
 - ⚡ Fun fact: I'm a simple guy -_-
 
 ### Skills and Tools
-<img style="padding: 10px 5px 0 5px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html' width="35">
+<!-- <img style="padding: 10px 5px 0 5px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html' width="35">
 <img style="padding: 10px 5px 0 5px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='html' width="35">
 <img style="padding: 10px 5px 0 5px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/sass.svg' alt='html' width="35">
 <img style="padding: 10px 5px 0 5px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='html' width="35">
@@ -34,7 +35,20 @@
 <img style="padding: 10px 5px 0 5px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/sublimetext.svg' alt='html' width="35">
 <img style="padding: 10px 5px 0 5px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/visualstudiocode.svg' alt='html' width="35">
 <img style="padding: 10px 5px 0 5px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='html' width="35">
-<img style="padding: 10px 5px 0 5px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobephotoshop.svg' alt='html' width="35">
+<img style="padding: 10px 5px 0 5px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobephotoshop.svg' alt='html' width="35"> -->
+
+<img style="padding: 10px 5px 0 5px" src='img/html5.png' alt='html' width="35">
+<img style="padding: 10px 5px 0 5px" src='img/css3.png' alt='html' width="35">
+<img style="padding: 10px 5px 0 5px" src='img/sass.png' alt='html' width="35">
+<img style="padding: 10px 5px 0 5px" src='img/react.png' alt='html' width="35">
+<img style="padding: 10px 5px 0 5px" src='img/wp.png' alt='html' width="35">
+<img style="padding: 10px 5px 0 5px" src='img/js.jpg' alt='html' width="35">
+<img style="padding: 10px 5px 0 5px" src='img/vscode.png' alt='html' width="35">
+<img style="padding: 10px 5px 0 5px" src='img/sublime.png' alt='html' width="35">
+<img style="padding: 10px 5px 0 5px" src='img/ps-1.png' alt='html' width="35">
+<img style="padding: 10px 5px 0 5px" src='img/ps-2.png' alt='html' width="35">
+<img style="padding: 10px 5px 0 5px" src='img/github-1.png' alt='html' width="35">
+<img style="padding: 10px 5px 0 5px" src='img/github-2.png' alt='html' width="35">
 
 ### Connect with me
 [<img style="padding: 10px 5px 0 5px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='35'>](https://gracicbakir.github.io/)
