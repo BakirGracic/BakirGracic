@@ -5,6 +5,7 @@
 ```
    console.log("I am a front-end web developer");
    console.log("and a designer, too!");
+   console.log("also, i started learning back-end!");
    // :D
    console.log("Welcome to my GitHub profile!");
 ```
