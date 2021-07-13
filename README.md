@@ -3,9 +3,9 @@
 <br>
 
 ```
-   console.log("I am a front-end web developer");
-   console.log("and a designer, too!");
-   console.log("also, i started learning back-end!");
+   console.log("I'm a front-end web developer 💻");
+   console.log("and a designer 🖌, too!");
+   console.log("also, i started learning back-end! ⚙");
    // :D
    console.log("Welcome to my GitHub profile!");
 ```
@@ -15,7 +15,7 @@
 
 
 ### More About Me
- - Bakir Gracić | 17 | 4+ of exp | Sarajevo, Bosnia and Herzegovina | High School student (CS, Math)
+ - Bakir Gracić | 17 | 3+ y of exp | Sarajevo, Bosnia and Herzegovina | High School student (CS, Math)
  - "Arranging 1's and 0's in exact right order"
 
 ### Status
