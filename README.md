@@ -6,7 +6,7 @@
  - 2+ years of web development experience
  - full-stack web developer (back-end oriented)
  - part time freelancer and a high school student
- - [CV](https://resume.io/r/f1RIP1ftm)
+ - [CV](Bakir_Gracić_CV.pdf)
 
 ### Connect
 - ✉️ How to reach me: [website](https://bakirgracic.github.io/), [email](mailto:gracic_bakir@outlook.com) or [Discord](https://discordapp.com/users/616736736277430448/)
