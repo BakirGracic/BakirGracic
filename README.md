@@ -4,7 +4,7 @@
  - 5+ years of web development experience
  - full-stack web developer
  - high school student
- - [CV](https://bakirgracic.github.io/Bakir-Graci%C4%87-CV.pdf)
+ - [CV](https://bakirgracic.github.io/Bakir-Gracic-CV.pdf)
 
 ### Connect
 - [Website](https://bakirgracic.github.io/)
