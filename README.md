@@ -1,13 +1,14 @@
 ## Welcome to my GitHub profile!
 
 ### About Me
- - 5+ years of web development experience
+ - 5+ years of web dev experience
  - full-stack web developer
+ - back-end oriented
  - high school student
  - [CV](https://bakirgracic.github.io/Bakir-Gracic-CV.pdf)
 
 ### Connect
-- [Website](https://bakirgracic.github.io/)
+- [Website](https://bakirg.dev)
 - [Email](mailto:bakir_gracic@outlook.com)
 - [Discord](https://discordapp.com/users/616736736277430448/)
 
