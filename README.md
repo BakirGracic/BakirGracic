@@ -5,7 +5,7 @@
  - full-stack web developer
  - back-end oriented
  - high school student
- - [CV](https://bakirgracic.github.io/Bakir-Gracic-CV.pdf)
+ - [CV](https://bakirg.dev/cv/)
 
 ### Connect
 - [Website](https://bakirg.dev)
