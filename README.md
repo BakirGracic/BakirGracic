@@ -4,7 +4,7 @@ Thank you for visiting my profile, here you can check all information about me a
 ### About Me
  - 6+ years of web dev experience
  - 2+ years of freelancing experience
- - full-stack web developer
+ - full-stack web developer (Next & PHP)
 
 ### Contact
 - [Website](https://bakirg.com)
