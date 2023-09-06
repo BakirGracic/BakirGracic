@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="160" src="https://storage.bakirg.com/images/monad-event-banner.jpg"  />
-</div>
-
 ###
 
 <div align="center">
@@ -36,7 +32,7 @@
 
 ###
 
-<h4 align="left">🛠 Language and tools</h4>
+<h4 align="left">🛠 Languages and tools</h4>
 
 ###
 
