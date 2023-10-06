@@ -64,10 +64,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/BakirGracic/BakirGracic/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <a href="https://open.spotify.com/user/31u6npxqruxj2mzbvafegv33u5ii">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31u6npxqruxj2mzbvafegv33u5ii&count=3" alt="Spotify recently played"  />
