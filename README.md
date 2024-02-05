@@ -28,11 +28,7 @@
 
 ###
 
-<p align="left">- 2+ years of industry experience in web development<br>- full-stack web developer (Next.js & PHP)</p>
-
-###
-
-<h4 align="left">🛠 Languages and tools</h4>
+<ul align="left"><li>2+ years of industry experience in web development</li><li>full-stack web developer (Next.js & PHP)</li><li>founder, entrepreneur, developer, student</li></ul>
 
 ###
 
