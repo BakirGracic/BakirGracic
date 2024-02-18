@@ -32,7 +32,7 @@
 
 ###
 
-<h4 align="left">☕  You can buy me a coffe!</h4>
+<h4 align="left">☕  You can buy me a coffee!</h4>
 <a href="https://www.buymeacoffee.com/bakirgracic" target="_blank">@bakirgracic</a>
 
 ###
